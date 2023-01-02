@@ -1,7 +1,3 @@
----
-typora-root-url: assets
----
-
 # 1.项目文件结构
 
 ![](assets\struct.png)
