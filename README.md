@@ -1,4 +1,23 @@
-# Java_course_design
-基于JavaSwing技术的图书管理系统
+---
+typora-root-url: assets
+---
 
-代码中的阿里云服务器2023年1月20日关闭
+# 1.项目文件结构
+
+![](assets\struct.png)
+
+# 2.数据表设计
+
+![](assets\tbl_1.png)
+
+![](assets\tbl_2.png)
+
+# 3.实体类设计
+
+![](assets\user.png)
+
+![](assets\book.png)
+
+![](assets\bookType.png)
+
+![](assets\borrowDetail.png)
