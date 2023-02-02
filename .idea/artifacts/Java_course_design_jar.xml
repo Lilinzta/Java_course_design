@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Java_course_design:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/Java_course_design_jar</output-path>
+    <root id="archive" name="Java_course_design.jar">
+      <element id="module-output" name="Java_course_design" />
+      <element id="library" level="project" name="myBookManager1" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/javax.servlet-api-3.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/tupian.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/beautyeye_lnf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/mysql-connector-java-5.1.38.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
